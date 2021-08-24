@@ -1,0 +1,11 @@
+header nav {
+    max-width: 80%;
+    margin: auto;
+    justify-self: center;
+    display: flex;
+    background-color: rgb(255, 195, 195);
+}
+
+header nav a {
+    margin: auto;
+}
